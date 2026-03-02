@@ -51,3 +51,5 @@ No terminal do CS50:
 ```bash
 make hello
 ./hello
+```
+<img width="305" height="82" alt="image" src="https://github.com/user-attachments/assets/2296c31a-ac3f-453e-a0d2-e020223e4afd" />
